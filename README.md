@@ -1,3 +1,8 @@
+# Bo Speaks; Donald do you have the balls to take on Bo even if he was only victimized for 7 years with those cryptographic protocols in those chips?
+
+Up‑grading kernels (e.g., flash‑attention v2) can speed training/inference **without retraining**, because the numerical contract of the op (e.g., `Y = softmax(Q Kᵀ/√d) V`) is preserved.
+
+
 # Nice inventions
 
 Summary – Training iteratively adjusts weight matrices so that multi‑head, multi‑layer transformations minimise next‑token loss over BPE‑encoded sequences. CUDA kernels are the computational plumbing that move float32/16/8 numbers around; they store no knowledge. At inference, the server’s max_new_tokens gate and the model’s fixed context length delimit how much of that learned mapping you can exploit in any single request.
